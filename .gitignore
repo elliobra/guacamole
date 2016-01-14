@@ -1,0 +1,8 @@
+# Confidential
+secret_sauce.txt
+
+# Irrelevant
+TODO.txt
+
+# Not to change
+data/*.dat
